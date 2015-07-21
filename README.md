@@ -1,2 +1,2 @@
 # Hello-Nicole
-My first try on Github
+My first try on Github.
