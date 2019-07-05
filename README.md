@@ -1,2 +1,2 @@
-# Hello-Nicole
-My first try on Github.
+# Serial port communication
+## serial port communication based on NodeJS
