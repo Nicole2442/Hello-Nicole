@@ -1,5 +1,3 @@
-// ----------------------------------------------------------------------------
-// Created by Nicole Liao 20190710
 class serial_port {
     constructor(portNum) {
         this.portNum = portNum;
