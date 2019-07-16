@@ -8,5 +8,8 @@ npm install serialport
 ```
 
 2. import the library  
+
+```markdown
 var SerialPort = require("serialport");  
 var Readline = require('@serialport/parser-readline');
+```

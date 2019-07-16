@@ -11,7 +11,7 @@ class serial_port {
     // check if the serial port exist
     portFind(callback = null) {
         var portNum = this.portNum;
-        var manufacturerName = 'Moxa';
+        var manufacturerName = 'Moxa'; // manufacture name
         this.serial.list(function(err, ports) {
             var allports = ports.length;
             var count = 0;
